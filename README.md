@@ -1,2 +1,3 @@
-# rapid-cli-tool-3ej0
-Automated issue comment bot repository
+# Rapid Cli Tool 3Ej0
+
+Automated issue comment bot repository.
